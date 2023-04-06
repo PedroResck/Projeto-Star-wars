@@ -1,6 +1,6 @@
-# PROJETO STARWARS 
+# PROJETO STAR WARS 
 
-Este projeto foi desenvolvido durante o curso **WEB FULLSTACK** realizado na Trybe
+Este projeto foi desenvolvido durante o curso **Desenvolvedor Web Full-stack** na <a href="https://www.betrybe.com/?utm_source=trybe.com.br">Trybe</a>
 
 ---
 
